@@ -6,7 +6,7 @@ info = {
    "About":"Hey there, I'm Marco! I'm passionate about anything computer science, physics or maths related, especially AI!",
    "Github":"https://github.com/Macro1027?tab=repositories",
    "City":"Hong Kong, China",
-   "Photo":"""<a href=\"https://www.linkedin.com/in/vicky-tck/\"><img src=\"https://sn-assets.s3.us.cloud-object-storage.appdomain.cloud/projects/profile.png" width=\"200\"   alt=\"Profile\" title=\"Profile\"></a>""",
+   "Photo":"""<a href=\"#"><img src=\"../images/pfp.jpeg" width=\"200\"   alt=\"Profile\" title=\"Profile\"></a>""",
    "Email": "marcoleeml27@gmail.com"
 }
 

@@ -9,8 +9,6 @@ from scripts.chatbot import Chatbot
 from scripts.lottie import Lottie
 st.set_page_config(page_title='Template' ,layout="wide",page_icon='👧🏻')
 
-'''CUSTOMISE BIO.TXT'''
-
 chatbot = Chatbot()
 lottie = Lottie()
 # -----------------  chatbot  ----------------- #
@@ -28,7 +26,7 @@ def display_info():
         full_name = info['Full_Name']
         with col1:
             colour1 = '#FFD4DD'
-            colour2 = '#000395'
+            colour2 = '#4B5DFF'
             colour3 = 'e0fbfc'
             content1 = f"Hi, I'm {info['Full_Name']}👋"
             content2 = info["Intro"]

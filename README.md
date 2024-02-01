@@ -3,8 +3,6 @@ Showcase your coding skills to recruiters with a chatbot tailored to your resume
 
 # ❄️[Demo](https://portfolio-template.streamlit.app/?ref=blog.streamlit.io)
 
-![ezgif com-video-to-gif (1)](https://github.com/vicky-playground/portfolio-template/assets/90204593/c60f52a9-7026-43ae-a7f3-89cacc730b2d)
-
 🤖 Feel free to engage with the chatbot! Here are some sample questions to get you started:
 - hi
 - what's her contact?
@@ -24,4 +22,4 @@ In this tutorial, you’ll learn how to build a portfolio with:
 - Colleague endorsement slideshow
 - Contact form
 
-I can’t wait to see the amazing portfolios you’ll create. Once you have, tag me on [my LinkedIn](https://www.linkedin.com/in/vicky-tck/?ref=blog.streamlit.io). I'd love to celebrate your accomplishments and get inspired by your work! 🎉💡
+This project is a clone of [Land your dream job: Build your portfolio with Streamlit](https://github.com/vicky-playground/portfolio-template) by vicky-playground
