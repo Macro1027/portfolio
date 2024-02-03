@@ -2,13 +2,13 @@ import streamlit as st
 import openai
 from scripts.constant import *
 from llama_index import GPTVectorStoreIndex, SimpleDirectoryReader, LLMPredictor, ServiceContext
-from langchain.chat_models import ChatOpenAI
+from langchain_openai import ChatOpenAI
+import requests
 
 class Chatbot:
     def __init__(self):
         # Initialise sidebar with openai API key
-        self.openai_api_key = st.sidebar.text_input('Enter your OpenAI API Key and hit Enter', type="password")
-        openai.api_key = (self.openai_api_key)
+        self.openai_api_key = st.sidebar.text_input('Enter your Perplexity API Key and hit Enter', type="password")
 
         # Personal information
         self.documents = SimpleDirectoryReader(input_files=["bio.txt"]).load_data()
