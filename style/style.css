@@ -6,12 +6,12 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 /* Sidebar Styling */
 [data-testid=stSidebar] {
-  background-image: linear-gradient(#000395, #FFD4DD);
+  background-image: linear-gradient(#A48BFF, #8BCFFF);
 }
 
 /* Streamlit Component Styling */
@@ -51,8 +51,8 @@ input[type=message], input[type=email], input[type=text], textarea {
 
 /* Submit Button */
 button[type=submit] {
-  background-color: #04AA6D;
-  color: white;
+  background-color: #9c19f3;
+  color: rgb(239, 206, 255);
   padding: 12px 20px;
   border: none;
   border-radius: 4px;
@@ -60,7 +60,7 @@ button[type=submit] {
 }
 
 button[type=submit]:hover {
-  background-color: #45a049;
+  background-color: #600aff;
 }
 
 /* Streamlit Buttons */
@@ -75,12 +75,12 @@ button[type=submit]:hover {
   transition-duration: 0.4s;
   cursor: pointer;
   border-radius: 8px;
-  background-color: white;
-  border: 2px solid #4CAF50;
+  background-color: #dceffc; 
+  border: 2px solid 9c19f3;
 }
 
 .stButton>button:hover {
-  background-color: #4CAF50;
+  background-color: #600aff;
   color: white;
 }
 
@@ -90,7 +90,7 @@ button[type=submit]:hover {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #001d6c;
+  background-color: #8251ff;
   color: white;
   text-align: center;
   padding: 20px;
@@ -184,7 +184,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 :root {
-  --primary-color: #23a5d0;
+  --primary-color: #ffffff;
   --secondary-color: #9e3afb;
   --text-color: #333;
 }

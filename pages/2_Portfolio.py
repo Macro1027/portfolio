@@ -1,7 +1,7 @@
 import streamlit as st
 from streamlit_modal import Modal
-from scripts.constant import media, projects, awards, info
-from scripts.elements import display_footer
+from src.constant import media, projects, awards, info
+from src.elements import display_footer
 
 def setup():
     st.set_page_config(page_title='Portfolio' ,layout="wide",page_icon='👧🏻')

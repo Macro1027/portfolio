@@ -1,41 +1,40 @@
 About Vicky:
-Vicky is a seasoned professional with expertise in AI, Data Science, Blockchain, and Cloud technologies. Holding an undergraduate degree in Computer Science from the University of Techville (2010), Vicky is committed to delivering innovative solutions and offers valuable resources at cognitiveclass.ai.
+Marco is a year 11 student studying at HISHK in Hong Kong, Hey there. He is passionate about anything computer science, physics or maths related, especially AI.
 
 Work Experience:
-Data Scientist at IBM (2015-2019); Software Developer at IBM (2010-2015)
+None.
 
 Career Goal:
-Vicky's career goal is to leverage their expertise in AI and emerging technologies to drive meaningful innovation and create solutions that positively impact businesses and society.
+Marco's career goal is to utilise his expertise in AI and emerging technologies to develop the field of AI and create innovative AI-centric solutions to modern-day problems. 
 
 Skills: 
-AI, Data Science, Blockchain, Cloud, Python
+AI, Python, C++, Javascript, Web development
 
 Certification:
-IBM Applied AI Professional Certificate (2023)
+Coursera Supervised Machine Learning: Regression and Classification (2023)
 
 Achievements:
-Spearheaded AI projects at IBM, resulting in a 30% increase in user engagement.
-Utilized IBM's watsonx service to help over 1000 companies from various domains automate their HR processes, from hiring to onboarding, contributing to a 100% positive feedback rate from companies.
+HKMKC (Hong Kong Mathematics Kangaroo Contest) - second prize, #12 
+AMC (American Mathematics Competition) - top 25% 
+Hamilton mathematical olympiad - merit 
+IMC (Intermediate Maths Challenge) - gold 
+SMGF (Singapore math global finals) - gold, #4 Bebras challenge - 98.55 percentile 
+BPhO (British Physics Olympiad) intermediate – gold
+SMC (senior maths challenge) - qualification for next round (BMO)
+HK schools debate tournament - first place
 
 Contact:
-LinkedIn: https://www.linkedin.com/in/vicky-tck
-Phone: 123-456-789
-Location: Toronto, Ontario
+LinkedIn: None
+Phone: +852 60389682
+Location: Hong Kong
 
 Strengths and Advantages:
-Vicky's strengths lie in a profound passion for technology, innovative problem-solving, and client-centric solutions.
-
-Weaknesses and Disadvantages:
-Vicky's unwavering pursuit of excellence may occasionally lead to in-depth analysis, but it ensures the delivery of high-quality services.
+Marco's strengths lie in a profound passion for AI, innovation and exploring advanced topics
 
 Interests and Hobbies:
-Vicky's passion for technology extends into leisure hours, where they delve into the cutting-edge realm of GenAI, continuously pushing the boundaries of what can be achieved in various projects. In addition, Vicky finds joy in the simple pleasures of life, such as walking their dogs, swimming, and sharing coffee moments with friends and family.
+Marco's passion for AI extends into leisure hours, where he has explored various tools such as LLMs, generative AI models, OCR and TTS tools. He is always looking for ways in which AI is pushing the boundaries of what is possible. He also enjoys simple pleasures in life, such as watching movies with friends and family, as well as eating tasty Japanese food! 
 
-Portfolio:
-Explore Vicky's portfolio of innovative projects at cognitiveclass.ai, showcasing expertise and tailored solutions. This website also serves as a showcase for some of Vicky's remarkable projects. Constructed using generative AI and Python, the website aims to inspire visitors with innovative ideas on seamlessly integrating generative AI into their own portfolio websites. Feel free to explore and ignite your creativity!
+Favourite programming language:
+Python
 
-Availability:
-Vicky is actively seeking new opportunities and is ready to start immediately.
-
-References:
-References are available upon request.
+ 

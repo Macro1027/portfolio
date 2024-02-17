@@ -4,9 +4,9 @@ from PIL import Image
 from streamlit_lottie import st_lottie
 from streamlit_timeline import timeline
 
-from scripts.constant import *
-from scripts.chatbot import Chatbot
-from scripts.lottie import Lottie
+from src.constant import *
+from src.chatbot import Chatbot
+from src.lottie import Lottie
 st.set_page_config(page_title='Template' ,layout="wide",page_icon='👧🏻')
 
 chatbot = Chatbot()
@@ -25,9 +25,9 @@ def display_info():
 
         full_name = info['Full_Name']
         with col1:
-            colour1 = '#FFD4DD'
-            colour2 = '#4B5DFF'
-            colour3 = 'e0fbfc'
+            colour1 = '#A48BFF'
+            colour2 = '#8BCFFF'
+            colour3 = '#e0fbfc'
             content1 = f"Hi, I'm {info['Full_Name']}👋"
             content2 = info["Intro"]
             st.markdown(f'<h1 style="text-align:center;background-image: linear-gradient(to right,{colour1}, {colour2});font-size:60px;border-radius:2%;">'
@@ -74,4 +74,4 @@ if __name__ == "__main__":
     display_photo()
     display_skills(skills)
     display_info()
-    display_timeline()
+    # display_timeline()
