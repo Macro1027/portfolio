@@ -28,6 +28,9 @@ LinkedIn: None
 Phone: +852 60389682
 Location: Hong Kong
 
+Social media:
+Github: https://github.com/Macro1027
+
 Strengths and Advantages:
 Marco's strengths lie in a profound passion for AI, innovation and exploring advanced topics
 

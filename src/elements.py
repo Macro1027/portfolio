@@ -1,5 +1,6 @@
 import streamlit as st
+from src.constant import info
 
 # Footer
 def display_footer():
-    st.markdown('<div class="footer">Contact: marcoleeml27@gmail.com | Social Media Links</div>', unsafe_allow_html=True)
+    st.markdown(f'<div class="footer">Contact: {info["Email"]} </div>', unsafe_allow_html=True)

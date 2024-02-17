@@ -7,7 +7,7 @@ from streamlit_timeline import timeline
 from src.constant import *
 from src.chatbot import Chatbot
 from src.lottie import Lottie
-st.set_page_config(page_title='Template' ,layout="wide",page_icon='👧🏻')
+st.set_page_config(page_title='Marco Lee' ,layout="wide",page_icon='👦🏻')
 
 chatbot = Chatbot()
 lottie = Lottie()
