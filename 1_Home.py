@@ -2,7 +2,6 @@ import streamlit as st
 import requests
 from PIL import Image
 from streamlit_lottie import st_lottie
-from streamlit_timeline import timeline
 
 from src.constant import *
 from src.chatbot import Chatbot
@@ -52,26 +51,9 @@ def display_skills(skills):
             with [col1, col2, col3, col4][i % 4]:
                 st_lottie(skill['lottie'], height=skill['height'], width=skill['width'], key=skill['key'], speed=skill['speed'])
 
-    
-    
-# ----------------- timeline ----------------- #
-def display_timeline():
-    with st.container():
-        st.markdown("""""")
-        st.subheader('📌 Project snapshot')
-
-        # load data
-        with open('example.json', "r") as f:
-            data = f.read()
-
-        # render timeline
-        timeline(data, height=400)
-
-
 # MAIN
 if __name__ == "__main__":
     skills = lottie.skills
     display_photo()
     display_skills(skills)
     display_info()
-    # display_timeline()
