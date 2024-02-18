@@ -37,13 +37,13 @@ projects = [
      "description": "A Streamlit-based python application using the Lattice Boltzmann Method (LBM) to simulate fluid dynamics, featuring a user-friendly interface for adjusting parameters and visualizing the fluid flow in real-time."},
 
     {"text": "Live OCR with AI integration",
-     "image": "https://i.ibb.co/9sPJ71d/lbm.jpg",
+     "image": "https://i.ibb.co/gjTDkWj/ocr.jpg",
      "link": "https://github.com/Macro1027/streamlit_ocr",
      "link-text": "Streamlit link",
      "description": "A Streamlit-based python application for optical character recognition (OCR) in live webcam feed, integrating text detection using EAST detector model, OCR using Tesseract, and a chatbot feature using Perplexity AI's chat completion API."},
 
     {"text": "Discord Todo-list bot",
-     "image": "https://i.ibb.co/9sPJ71d/lbm.jpg",
+     "image": "https://i.ibb.co/bd1tTGd/Discord-Feature-Graphic.jpg",
      "link": "",
      "link-text": "Discord link",
      "description": "A smart discord bot which handles your to-do list"},
