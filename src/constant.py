@@ -43,7 +43,7 @@ projects = [
      "description": "A Streamlit-based python application for optical character recognition (OCR) in live webcam feed, integrating text detection using EAST detector model, OCR using Tesseract, and a chatbot feature using Perplexity AI's chat completion API."},
 
     {"text": "Discord Todo-list bot",
-     "image": "https://i.ibb.co/bd1tTGd/Discord-Feature-Graphic.jpg",
+     "image": "https://i.ibb.co/GnCDMtQ/discord.jpg",
      "link": "",
      "link-text": "Discord link",
      "description": "A smart discord bot which handles your to-do list"},
