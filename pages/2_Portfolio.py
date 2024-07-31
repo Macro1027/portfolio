@@ -1,6 +1,6 @@
 import streamlit as st
 from streamlit_modal import Modal
-from src.constant import media, projects, awards, info
+from src.constant import media, projects, info
 from src.elements import display_footer
 
 def setup():
@@ -57,8 +57,7 @@ def display_category(category, title):
 def main():
     setup()
     display_category(projects, "Projects")
-    display_category(awards, "Awards")
-    display_category(media, "Media")
+    display_category(media, "Favourite media")
     display_footer()
 
 if __name__ == "__main__":
